@@ -14,3 +14,4 @@
 13. We are symbols, and inhabit symbols
 14. Copy HTML files
 15. Let’s move
+16. Clean Emacs
