@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR | find ./ -empty  | cut -d '/' -f9
+ls -la | find ./ -empty  -printf '%f\n'
