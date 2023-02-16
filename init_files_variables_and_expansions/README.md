@@ -14,3 +14,4 @@
 13. Floats
 14. Decimal to Hexadecimal
 16. Everyone is a proponent of strong encryption
+17. The eggs of the brood need to be an odd number
